@@ -1,0 +1,3 @@
+D:/code/c_c++/ThreadPool/cmake-build-debug/CMakeFiles/ThreadPool.dir
+D:/code/c_c++/ThreadPool/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/c_c++/ThreadPool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
